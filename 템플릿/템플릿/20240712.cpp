@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+#define a;
 
 //함수 템플릿
 #ifdef a
