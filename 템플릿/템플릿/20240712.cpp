@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-#define a;
+
+int num = 100;
 
 //함수 템플릿
 #ifdef a
